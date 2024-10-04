@@ -1,5 +1,6 @@
 {
   "runDtTm": "2024-10-02T01:47:38.000+00:00",
+  
   "elapsedTime": {
     "total": 1000,
     "pds": 300
@@ -7,6 +8,10 @@
   "param1": 1,
   "param2": 1,
   "param3": "",
+  "username": "CCUMMIN4",
+  "position": "DBA",
+  "userId": 16908168,
+  "accessLevel": 2,
   "request": {
     "units": [
       {
